@@ -1,3 +1,1 @@
-# storefront
-# bristy biswas
-# ritesh ghosh
+# bristy biswas 
